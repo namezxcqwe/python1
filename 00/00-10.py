@@ -1,0 +1,6 @@
+firstphrase = input('Введите первую фразу: ')
+secondphrase = input('Введите вторую фразу: ')
+thirdphrase = input('Введите третью фразу: ')
+print(thirdphrase)
+print(secondphrase)
+print(firstphrase)
